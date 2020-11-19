@@ -19,6 +19,7 @@ def greet(who_to_greet):
 
 print(greet("World"))
 print(greet("Corey"))
+print(greet("Corey"))
 # r = requests.get("https://coreyms.com")
 # print(r.status_code)
 print("Hello, my name is marasy.")
